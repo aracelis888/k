@@ -1,0 +1,2938 @@
+{
+    "groups": [
+        {
+            "keys": "ja_jp_preload_zip",
+            "name": "preload"
+        },
+        {
+            "keys": "ja_jp_effect_public_fireworks_zip",
+            "name": "effect_public_fireworks"
+        },
+        {
+            "keys": "ja_jp_public_zip",
+            "name": "public"
+        }
+    ],
+    "resources": [
+        {
+            "url": "timg/1/preload/load_pic_bg1.png",
+            "type": "image",
+            "name": "load_pic_bg1_png"
+        },
+        {
+            "url": "timg/1/preload/load_pic_bg2.png",
+            "type": "image",
+            "name": "load_pic_bg2_png"
+        },
+        {
+            "url": "timg/1/preload/public_pic_loading.png",
+            "type": "image",
+            "name": "public_pic_loading_png"
+        },
+        {
+            "url": "timg/1/preload/public_pic_loading_bg.png",
+            "type": "image",
+            "name": "public_pic_loading_bg_png"
+        },
+        {
+            "url": "timg/1/preload/loading/loading_pic_bg.jpg",
+            "type": "image",
+            "name": "loading_pic_bg_jpg"
+        },
+        {
+            "url": "timg/1/preload/pop/pop_btn.png",
+            "type": "image",
+            "name": "pop_btn_png"
+        },
+        {
+            "url": "timg/1/preload/pop/pop_btn_arrow.png",
+            "type": "image",
+            "name": "pop_btn_arrow_png"
+        },
+        {
+            "url": "timg/1/preload/pop/pop_btn_arrow_p.png",
+            "type": "image",
+            "name": "pop_btn_arrow_p_png"
+        },
+        {
+            "url": "timg/1/preload/pop/pop_btn_close.png",
+            "type": "image",
+            "name": "pop_btn_close_png"
+        },
+        {
+            "url": "timg/1/preload/pop/pop_btn_close_p.png",
+            "type": "image",
+            "name": "pop_btn_close_p_png"
+        },
+        {
+            "url": "timg/1/preload/pop/pop_btn_music_switch_close.png",
+            "type": "image",
+            "name": "pop_btn_music_switch_close_png"
+        },
+        {
+            "url": "timg/1/preload/pop/pop_btn_music_switch_open.png",
+            "type": "image",
+            "name": "pop_btn_music_switch_open_png"
+        },
+        {
+            "url": "timg/1/preload/pop/pop_btn_p.png",
+            "type": "image",
+            "name": "pop_btn_p_png"
+        },
+        {
+            "url": "timg/1/preload/pop/pop_btn_volume.png",
+            "type": "image",
+            "name": "pop_btn_volume_png"
+        },
+        {
+            "url": "timg/1/preload/pop/pop_btn_volume_p.png",
+            "type": "image",
+            "name": "pop_btn_volume_p_png"
+        },
+        {
+            "url": "timg/1/preload/pop/pop_icon_arrow.png",
+            "type": "image",
+            "name": "pop_icon_arrow_png"
+        },
+        {
+            "url": "timg/1/preload/pop/pop_icon_arrow_p.png",
+            "type": "image",
+            "name": "pop_icon_arrow_p_png"
+        },
+        {
+            "url": "timg/1/preload/pop/pop_pic_bg.png",
+            "type": "image",
+            "name": "pop_pic_bg_png"
+        },
+        {
+            "url": "timg/1/preload/pop/pop_pic_bg2.png",
+            "type": "image",
+            "name": "pop_pic_bg2_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/1.png",
+            "type": "image",
+            "name": "effect_public_fireworks_1_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/10.png",
+            "type": "image",
+            "name": "effect_public_fireworks_10_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/11.png",
+            "type": "image",
+            "name": "effect_public_fireworks_11_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/12.png",
+            "type": "image",
+            "name": "effect_public_fireworks_12_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/13.png",
+            "type": "image",
+            "name": "effect_public_fireworks_13_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/14.png",
+            "type": "image",
+            "name": "effect_public_fireworks_14_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/15.png",
+            "type": "image",
+            "name": "effect_public_fireworks_15_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/16.png",
+            "type": "image",
+            "name": "effect_public_fireworks_16_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/17.png",
+            "type": "image",
+            "name": "effect_public_fireworks_17_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/18.png",
+            "type": "image",
+            "name": "effect_public_fireworks_18_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/19.png",
+            "type": "image",
+            "name": "effect_public_fireworks_19_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/2.png",
+            "type": "image",
+            "name": "effect_public_fireworks_2_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/20.png",
+            "type": "image",
+            "name": "effect_public_fireworks_20_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/21.png",
+            "type": "image",
+            "name": "effect_public_fireworks_21_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/22.png",
+            "type": "image",
+            "name": "effect_public_fireworks_22_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/23.png",
+            "type": "image",
+            "name": "effect_public_fireworks_23_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/24.png",
+            "type": "image",
+            "name": "effect_public_fireworks_24_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/25.png",
+            "type": "image",
+            "name": "effect_public_fireworks_25_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/26.png",
+            "type": "image",
+            "name": "effect_public_fireworks_26_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/27.png",
+            "type": "image",
+            "name": "effect_public_fireworks_27_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/28.png",
+            "type": "image",
+            "name": "effect_public_fireworks_28_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/29.png",
+            "type": "image",
+            "name": "effect_public_fireworks_29_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/3.png",
+            "type": "image",
+            "name": "effect_public_fireworks_3_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/30.png",
+            "type": "image",
+            "name": "effect_public_fireworks_30_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/31.png",
+            "type": "image",
+            "name": "effect_public_fireworks_31_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/32.png",
+            "type": "image",
+            "name": "effect_public_fireworks_32_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/4.png",
+            "type": "image",
+            "name": "effect_public_fireworks_4_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/5.png",
+            "type": "image",
+            "name": "effect_public_fireworks_5_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/6.png",
+            "type": "image",
+            "name": "effect_public_fireworks_6_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/7.png",
+            "type": "image",
+            "name": "effect_public_fireworks_7_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/8.png",
+            "type": "image",
+            "name": "effect_public_fireworks_8_png"
+        },
+        {
+            "url": "timg/1/public/effect/fireworks/9.png",
+            "type": "image",
+            "name": "effect_public_fireworks_9_png"
+        },
+        {
+            "url": "timg/1/public/font/prize_win.fnt",
+            "type": "font",
+            "name": "prize_win_fnt"
+        },
+        {
+            "url": "timg/1/public/font/prize_win.png",
+            "type": "image",
+            "name": "prize_win_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_baicai.png",
+            "type": "image",
+            "name": "hall_baicai_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_black_jack.png",
+            "type": "image",
+            "name": "hall_black_jack_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_btn_hot.png",
+            "type": "image",
+            "name": "hall_btn_hot_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_btn_hot_p.png",
+            "type": "image",
+            "name": "hall_btn_hot_p_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_fan_tan.png",
+            "type": "image",
+            "name": "hall_fan_tan_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_fish.png",
+            "type": "image",
+            "name": "hall_fish_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_hilo.png",
+            "type": "image",
+            "name": "hall_hilo_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_horoscope.png",
+            "type": "image",
+            "name": "hall_horoscope_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_lieng.png",
+            "type": "image",
+            "name": "hall_lieng_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_pic_3cgf.png",
+            "type": "image",
+            "name": "hall_pic_3cgf_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_pic_4cbull.png",
+            "type": "image",
+            "name": "hall_pic_4cbull_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_pic_bull.png",
+            "type": "image",
+            "name": "hall_pic_bull_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_pic_casino.png",
+            "type": "image",
+            "name": "hall_pic_casino_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_pic_dragontiger.png",
+            "type": "image",
+            "name": "hall_pic_dragontiger_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_pic_flower.png",
+            "type": "image",
+            "name": "hall_pic_flower_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_pic_hotbg.png",
+            "type": "image",
+            "name": "hall_pic_hotbg_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_pic_hundredsbull.png",
+            "type": "image",
+            "name": "hall_pic_hundredsbull_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_pic_online.png",
+            "type": "image",
+            "name": "hall_pic_online_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_pic_paigow.png",
+            "type": "image",
+            "name": "hall_pic_paigow_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_pic_three_facecard.png",
+            "type": "image",
+            "name": "hall_pic_three_facecard_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_pic_two.png",
+            "type": "image",
+            "name": "hall_pic_two_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_pokdeng.png",
+            "type": "image",
+            "name": "hall_pokdeng_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_sedie.png",
+            "type": "image",
+            "name": "hall_sedie_png"
+        },
+        {
+            "url": "timg/1/public/hall/hall_thirteen.png",
+            "type": "image",
+            "name": "hall_thirteen_png"
+        },
+        {
+            "url": "timg/1/public/home/home_pic_3cgfbg.png",
+            "type": "image",
+            "name": "home_pic_3cgfbg_png"
+        },
+        {
+            "url": "timg/1/public/home/home_pic_4cbullbg.png",
+            "type": "image",
+            "name": "home_pic_4cbullbg_png"
+        },
+        {
+            "url": "timg/1/public/home/home_pic_bg.jpg",
+            "type": "image",
+            "name": "home_pic_bg_jpg"
+        },
+        {
+            "url": "timg/1/public/home/home_pic_bullbg.png",
+            "type": "image",
+            "name": "home_pic_bullbg_png"
+        },
+        {
+            "url": "timg/1/public/home/home_pic_casinobg.png",
+            "type": "image",
+            "name": "home_pic_casinobg_png"
+        },
+        {
+            "url": "timg/1/public/home/home_pic_dtbg.png",
+            "type": "image",
+            "name": "home_pic_dtbg_png"
+        },
+        {
+            "url": "timg/1/public/home/home_pic_flowerbg.png",
+            "type": "image",
+            "name": "home_pic_flowerbg_png"
+        },
+        {
+            "url": "timg/1/public/home/home_pic_hundredsbg.png",
+            "type": "image",
+            "name": "home_pic_hundredsbg_png"
+        },
+        {
+            "url": "timg/1/public/home/home_pic_iconbg.png",
+            "type": "image",
+            "name": "home_pic_iconbg_png"
+        },
+        {
+            "url": "timg/1/public/home/home_pic_icon_frame.png",
+            "type": "image",
+            "name": "home_pic_icon_frame_png"
+        },
+        {
+            "url": "timg/1/public/home/home_pic_paigowbg.png",
+            "type": "image",
+            "name": "home_pic_paigowbg_png"
+        },
+        {
+            "url": "timg/1/public/home/home_pic_threebg.png",
+            "type": "image",
+            "name": "home_pic_threebg_png"
+        },
+        {
+            "url": "timg/1/public/home/home_pic_twobg.png",
+            "type": "image",
+            "name": "home_pic_twobg_png"
+        },
+        {
+            "url": "timg/1/public/home/home_baicai/home_baicai_ske.dbbin",
+            "type": "bin",
+            "name": "home_baicai_ske_dbbin"
+        },
+        {
+            "url": "timg/1/public/home/home_baicai/home_baicai_tex.json",
+            "type": "json",
+            "name": "home_baicai_tex_json"
+        },
+        {
+            "url": "timg/1/public/home/home_baicai/home_baicai_tex.png",
+            "type": "image",
+            "name": "home_baicai_tex_png"
+        },
+        {
+            "url": "timg/1/public/home/home_black_jack/home_black_jack_ske.dbbin",
+            "type": "bin",
+            "name": "home_black_jack_ske_dbbin"
+        },
+        {
+            "url": "timg/1/public/home/home_black_jack/home_black_jack_tex.json",
+            "type": "json",
+            "name": "home_black_jack_tex_json"
+        },
+        {
+            "url": "timg/1/public/home/home_black_jack/home_black_jack_tex.png",
+            "type": "image",
+            "name": "home_black_jack_tex_png"
+        },
+        {
+            "url": "timg/1/public/home/home_fan_tan/home_fan_tan_ske.dbbin",
+            "type": "bin",
+            "name": "home_fan_tan_ske_dbbin"
+        },
+        {
+            "url": "timg/1/public/home/home_fan_tan/home_fan_tan_tex.json",
+            "type": "json",
+            "name": "home_fan_tan_tex_json"
+        },
+        {
+            "url": "timg/1/public/home/home_fan_tan/home_fan_tan_tex.png",
+            "type": "image",
+            "name": "home_fan_tan_tex_png"
+        },
+        {
+            "url": "timg/1/public/home/home_fish/home_fish_ske.dbbin",
+            "type": "bin",
+            "name": "home_fish_ske_dbbin"
+        },
+        {
+            "url": "timg/1/public/home/home_fish/home_fish_tex.json",
+            "type": "json",
+            "name": "home_fish_tex_json"
+        },
+        {
+            "url": "timg/1/public/home/home_fish/home_fish_tex.png",
+            "type": "image",
+            "name": "home_fish_tex_png"
+        },
+        {
+            "url": "timg/1/public/home/home_hilo/home_hilo_ske.dbbin",
+            "type": "bin",
+            "name": "home_hilo_ske_dbbin"
+        },
+        {
+            "url": "timg/1/public/home/home_hilo/home_hilo_tex.json",
+            "type": "json",
+            "name": "home_hilo_tex_json"
+        },
+        {
+            "url": "timg/1/public/home/home_hilo/home_hilo_tex.png",
+            "type": "image",
+            "name": "home_hilo_tex_png"
+        },
+        {
+            "url": "timg/1/public/home/home_horoscope/home_horoscope_ske.dbbin",
+            "type": "bin",
+            "name": "home_horoscope_ske_dbbin"
+        },
+        {
+            "url": "timg/1/public/home/home_horoscope/home_horoscope_tex.json",
+            "type": "json",
+            "name": "home_horoscope_tex_json"
+        },
+        {
+            "url": "timg/1/public/home/home_horoscope/home_horoscope_tex.png",
+            "type": "image",
+            "name": "home_horoscope_tex_png"
+        },
+        {
+            "url": "timg/1/public/home/home_lieng/home_lieng_ske.dbbin",
+            "type": "bin",
+            "name": "home_lieng_ske_dbbin"
+        },
+        {
+            "url": "timg/1/public/home/home_lieng/home_lieng_tex.json",
+            "type": "json",
+            "name": "home_lieng_tex_json"
+        },
+        {
+            "url": "timg/1/public/home/home_lieng/home_lieng_tex.png",
+            "type": "image",
+            "name": "home_lieng_tex_png"
+        },
+        {
+            "url": "timg/1/public/home/home_pokdeng/home_pokdeng_ske.dbbin",
+            "type": "bin",
+            "name": "home_pokdeng_ske_dbbin"
+        },
+        {
+            "url": "timg/1/public/home/home_pokdeng/home_pokdeng_tex.json",
+            "type": "json",
+            "name": "home_pokdeng_tex_json"
+        },
+        {
+            "url": "timg/1/public/home/home_pokdeng/home_pokdeng_tex.png",
+            "type": "image",
+            "name": "home_pokdeng_tex_png"
+        },
+        {
+            "url": "timg/1/public/home/home_sedie/home_sedie_ske.dbbin",
+            "type": "bin",
+            "name": "home_sedie_ske_dbbin"
+        },
+        {
+            "url": "timg/1/public/home/home_sedie/home_sedie_tex.json",
+            "type": "json",
+            "name": "home_sedie_tex_json"
+        },
+        {
+            "url": "timg/1/public/home/home_sedie/home_sedie_tex.png",
+            "type": "image",
+            "name": "home_sedie_tex_png"
+        },
+        {
+            "url": "timg/1/public/home/home_thirteen/home_thirteen_ske.dbbin",
+            "type": "bin",
+            "name": "home_thirteen_ske_dbbin"
+        },
+        {
+            "url": "timg/1/public/home/home_thirteen/home_thirteen_tex.json",
+            "type": "json",
+            "name": "home_thirteen_tex_json"
+        },
+        {
+            "url": "timg/1/public/home/home_thirteen/home_thirteen_tex.png",
+            "type": "image",
+            "name": "home_thirteen_tex_png"
+        },
+        {
+            "url": "timg/1/public/pool/bj_prize_win1.png",
+            "type": "image",
+            "name": "bj_prize_win1_png"
+        },
+        {
+            "url": "timg/1/public/pool/bj_prize_win2.png",
+            "type": "image",
+            "name": "bj_prize_win2_png"
+        },
+        {
+            "url": "timg/1/public/pool/home_pic_pot_bg.png",
+            "type": "image",
+            "name": "home_pic_pot_bg_png"
+        },
+        {
+            "url": "timg/1/public/pool/prize_prompt_bg.png",
+            "type": "image",
+            "name": "prize_prompt_bg_png"
+        },
+        {
+            "url": "timg/1/public/room/public_btn_start_matching.png",
+            "type": "image",
+            "name": "public_btn_start_matching_png"
+        },
+        {
+            "url": "timg/1/public/room/public_btn_start_matching_p.png",
+            "type": "image",
+            "name": "public_btn_start_matching_p_png"
+        },
+        {
+            "url": "timg/1/public/room/start/start_ske.dbbin",
+            "type": "bin",
+            "name": "start_ske_dbbin"
+        },
+        {
+            "url": "timg/1/public/room/start/start_tex.json",
+            "type": "json",
+            "name": "start_tex_json"
+        },
+        {
+            "url": "timg/1/public/room/start/start_tex.png",
+            "type": "image",
+            "name": "start_tex_png"
+        },
+        {
+            "url": "timg/1/public/topbar/menu_pic_quit.png",
+            "type": "image",
+            "name": "menu_pic_quit_png"
+        },
+        {
+            "url": "timg/1/public/topbar/menu_pic_quit_p.png",
+            "type": "image",
+            "name": "menu_pic_quit_p_png"
+        },
+        {
+            "url": "timg/1/public/topbar/menu_pic_setting.png",
+            "type": "image",
+            "name": "menu_pic_setting_png"
+        },
+        {
+            "url": "timg/1/public/topbar/menu_pic_setting_p.png",
+            "type": "image",
+            "name": "menu_pic_setting_p_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_btn_balance.png",
+            "type": "image",
+            "name": "top_btn_balance_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_btn_fullscreen.png",
+            "type": "image",
+            "name": "top_btn_fullscreen_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_btn_fullscreen2.png",
+            "type": "image",
+            "name": "top_btn_fullscreen2_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_btn_fullscreen2_p.png",
+            "type": "image",
+            "name": "top_btn_fullscreen2_p_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_btn_fullscreen_p.png",
+            "type": "image",
+            "name": "top_btn_fullscreen_p_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_btn_help.png",
+            "type": "image",
+            "name": "top_btn_help_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_btn_help_p.png",
+            "type": "image",
+            "name": "top_btn_help_p_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_btn_home.png",
+            "type": "image",
+            "name": "top_btn_home_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_btn_home_p.png",
+            "type": "image",
+            "name": "top_btn_home_p_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_btn_recording.png",
+            "type": "image",
+            "name": "top_btn_recording_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_btn_recording_p.png",
+            "type": "image",
+            "name": "top_btn_recording_p_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_btn_return.png",
+            "type": "image",
+            "name": "top_btn_return_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_btn_return_p.png",
+            "type": "image",
+            "name": "top_btn_return_p_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_btn_setting.png",
+            "type": "image",
+            "name": "top_btn_setting_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_btn_setting_p.png",
+            "type": "image",
+            "name": "top_btn_setting_p_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_menu_select_p.png",
+            "type": "image",
+            "name": "top_menu_select_p_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_pic_balancebg.png",
+            "type": "image",
+            "name": "top_pic_balancebg_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_pic_menu.png",
+            "type": "image",
+            "name": "top_pic_menu_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_pic_menubg.png",
+            "type": "image",
+            "name": "top_pic_menubg_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_pic_menuline.png",
+            "type": "image",
+            "name": "top_pic_menuline_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_pic_menu_p.png",
+            "type": "image",
+            "name": "top_pic_menu_p_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_pic_message.png",
+            "type": "image",
+            "name": "top_pic_message_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_pic_messagebg.png",
+            "type": "image",
+            "name": "top_pic_messagebg_png"
+        },
+        {
+            "url": "timg/1/public/topbar/top_pic_userbg.png",
+            "type": "image",
+            "name": "top_pic_userbg_png"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m1.jpg",
+            "type": "image",
+            "name": "head_m1_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m10.jpg",
+            "type": "image",
+            "name": "head_m10_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m11.jpg",
+            "type": "image",
+            "name": "head_m11_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m12.jpg",
+            "type": "image",
+            "name": "head_m12_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m13.jpg",
+            "type": "image",
+            "name": "head_m13_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m14.jpg",
+            "type": "image",
+            "name": "head_m14_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m15.jpg",
+            "type": "image",
+            "name": "head_m15_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m16.jpg",
+            "type": "image",
+            "name": "head_m16_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m17.jpg",
+            "type": "image",
+            "name": "head_m17_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m18.jpg",
+            "type": "image",
+            "name": "head_m18_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m19.jpg",
+            "type": "image",
+            "name": "head_m19_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m2.jpg",
+            "type": "image",
+            "name": "head_m2_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m20.jpg",
+            "type": "image",
+            "name": "head_m20_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m21.jpg",
+            "type": "image",
+            "name": "head_m21_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m22.jpg",
+            "type": "image",
+            "name": "head_m22_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m23.jpg",
+            "type": "image",
+            "name": "head_m23_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m3.jpg",
+            "type": "image",
+            "name": "head_m3_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m4.jpg",
+            "type": "image",
+            "name": "head_m4_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m5.jpg",
+            "type": "image",
+            "name": "head_m5_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m6.jpg",
+            "type": "image",
+            "name": "head_m6_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m7.jpg",
+            "type": "image",
+            "name": "head_m7_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m8.jpg",
+            "type": "image",
+            "name": "head_m8_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_m9.jpg",
+            "type": "image",
+            "name": "head_m9_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w1.jpg",
+            "type": "image",
+            "name": "head_w1_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w10.jpg",
+            "type": "image",
+            "name": "head_w10_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w11.jpg",
+            "type": "image",
+            "name": "head_w11_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w12.jpg",
+            "type": "image",
+            "name": "head_w12_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w13.jpg",
+            "type": "image",
+            "name": "head_w13_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w14.jpg",
+            "type": "image",
+            "name": "head_w14_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w15.jpg",
+            "type": "image",
+            "name": "head_w15_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w16.jpg",
+            "type": "image",
+            "name": "head_w16_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w17.jpg",
+            "type": "image",
+            "name": "head_w17_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w18.jpg",
+            "type": "image",
+            "name": "head_w18_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w19.jpg",
+            "type": "image",
+            "name": "head_w19_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w2.jpg",
+            "type": "image",
+            "name": "head_w2_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w20.jpg",
+            "type": "image",
+            "name": "head_w20_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w21.jpg",
+            "type": "image",
+            "name": "head_w21_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w22.jpg",
+            "type": "image",
+            "name": "head_w22_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w23.jpg",
+            "type": "image",
+            "name": "head_w23_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w24.jpg",
+            "type": "image",
+            "name": "head_w24_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w25.jpg",
+            "type": "image",
+            "name": "head_w25_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w26.jpg",
+            "type": "image",
+            "name": "head_w26_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w27.jpg",
+            "type": "image",
+            "name": "head_w27_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w3.jpg",
+            "type": "image",
+            "name": "head_w3_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w4.jpg",
+            "type": "image",
+            "name": "head_w4_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w5.jpg",
+            "type": "image",
+            "name": "head_w5_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w6.jpg",
+            "type": "image",
+            "name": "head_w6_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w7.jpg",
+            "type": "image",
+            "name": "head_w7_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w8.jpg",
+            "type": "image",
+            "name": "head_w8_jpg"
+        },
+        {
+            "url": "timg/1/public/topbar/user/head/head_w9.jpg",
+            "type": "image",
+            "name": "head_w9_jpg"
+        },
+        {
+            "url": "sound/baicao/baicao_bet1_2edc2a9.mp3",
+            "type": "sound",
+            "name": "baicao_bet1_mp3"
+        },
+        {
+            "url": "sound/baicao/baicao_Chips_8481900d.mp3",
+            "type": "sound",
+            "name": "baicao_Chips_mp3"
+        },
+        {
+            "url": "sound/BlackJack/BlackJack_anpai_6248fa96.mp3",
+            "type": "sound",
+            "name": "BlackJack_anpai_mp3"
+        },
+        {
+            "url": "sound/BlackJack/BlackJack_baopai_d1f045b2.mp3",
+            "type": "sound",
+            "name": "BlackJack_baopai_mp3"
+        },
+        {
+            "url": "sound/BlackJack/BlackJack_bj_56335e97.mp3",
+            "type": "sound",
+            "name": "BlackJack_bj_mp3"
+        },
+        {
+            "url": "sound/BlackJack/BlackJack_fapai_2a7e4a9d.mp3",
+            "type": "sound",
+            "name": "BlackJack_fapai_mp3"
+        },
+        {
+            "url": "sound/BlackJack/BlackJack_fenpai_fffd01d8.mp3",
+            "type": "sound",
+            "name": "BlackJack_fenpai_mp3"
+        },
+        {
+            "url": "sound/BlackJack/BlackJack_straight_8d82bf12.mp3",
+            "type": "sound",
+            "name": "BlackJack_straight_mp3"
+        },
+        {
+            "url": "sound/BlackJack/BlackJack_three7_77ee6e73.mp3",
+            "type": "sound",
+            "name": "BlackJack_three7_mp3"
+        },
+        {
+            "url": "sound/BlackJack/BlackJack_Turn_22245275.mp3",
+            "type": "sound",
+            "name": "BlackJack_Turn_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_4niu_6153e184.mp3",
+            "type": "sound",
+            "name": "brnn_4niu_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_5niu_8ce0668b.mp3",
+            "type": "sound",
+            "name": "brnn_5niu_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_5sniu_6e8ddabc.mp3",
+            "type": "sound",
+            "name": "brnn_5sniu_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_beginbet_9bbf4e7e.mp3",
+            "type": "sound",
+            "name": "brnn_beginbet_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_bet1_113f5c72.mp3",
+            "type": "sound",
+            "name": "brnn_bet1_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_bet2_67590b3a.mp3",
+            "type": "sound",
+            "name": "brnn_bet2_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_bet3_713bfe3d.mp3",
+            "type": "sound",
+            "name": "brnn_bet3_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_bet_other_cd2ea6a6.mp3",
+            "type": "sound",
+            "name": "brnn_bet_other_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_bomb_aaf790de.mp3",
+            "type": "sound",
+            "name": "brnn_bomb_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_chipfly_long_b80fb510.mp3",
+            "type": "sound",
+            "name": "brnn_chipfly_long_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_chipfly_short_94dbbcfe.mp3",
+            "type": "sound",
+            "name": "brnn_chipfly_short_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_clock_d9e34a36.mp3",
+            "type": "sound",
+            "name": "brnn_clock_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_dealing_cards_83d415be.mp3",
+            "type": "sound",
+            "name": "brnn_dealing_cards_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_fanpai_8c63b354.mp3",
+            "type": "sound",
+            "name": "brnn_fanpai_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_fapai_7ef2e0a2.mp3",
+            "type": "sound",
+            "name": "brnn_fapai_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_game_bg_a8e5008a.mp3",
+            "type": "sound",
+            "name": "brnn_game_bg_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_lose_e978a021.mp3",
+            "type": "sound",
+            "name": "brnn_lose_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_niu0_cec512bd.mp3",
+            "type": "sound",
+            "name": "brnn_niu0_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_niu1_1dc5166a.mp3",
+            "type": "sound",
+            "name": "brnn_niu1_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_niu10_f1a2b1c1.mp3",
+            "type": "sound",
+            "name": "brnn_niu10_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_niu2_beb858d9.mp3",
+            "type": "sound",
+            "name": "brnn_niu2_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_niu3_5081247c.mp3",
+            "type": "sound",
+            "name": "brnn_niu3_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_niu4_bef741db.mp3",
+            "type": "sound",
+            "name": "brnn_niu4_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_niu5_2e41afbc.mp3",
+            "type": "sound",
+            "name": "brnn_niu5_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_niu6_96d17ec4.mp3",
+            "type": "sound",
+            "name": "brnn_niu6_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_niu7_d28fd90f.mp3",
+            "type": "sound",
+            "name": "brnn_niu7_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_niu8_fae186c8.mp3",
+            "type": "sound",
+            "name": "brnn_niu8_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_niu9_3f77244f.mp3",
+            "type": "sound",
+            "name": "brnn_niu9_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_room_bg_fb2180b9.mp3",
+            "type": "sound",
+            "name": "brnn_room_bg_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_stopbet_cc811ab5.mp3",
+            "type": "sound",
+            "name": "brnn_stopbet_mp3"
+        },
+        {
+            "url": "sound/brnn/brnn_win_7bda42ad.mp3",
+            "type": "sound",
+            "name": "brnn_win_mp3"
+        },
+        {
+            "url": "sound/erba/erba_daojishi_di_66fcee22.mp3",
+            "type": "sound",
+            "name": "erba_daojishi_di_mp3"
+        },
+        {
+            "url": "sound/erba/erba_dingding_c8149c9b.mp3",
+            "type": "sound",
+            "name": "erba_dingding_mp3"
+        },
+        {
+            "url": "sound/erba/erba_game_start_a1bca179.mp3",
+            "type": "sound",
+            "name": "erba_game_start_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_b_1_6259bc8b.mp3",
+            "type": "sound",
+            "name": "erba_lady_b_1_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_b_2_6bf662a.mp3",
+            "type": "sound",
+            "name": "erba_lady_b_2_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_b_3_41fdaeae.mp3",
+            "type": "sound",
+            "name": "erba_lady_b_3_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_b_4_5bc0624a.mp3",
+            "type": "sound",
+            "name": "erba_lady_b_4_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_b_5_1a7b68ee.mp3",
+            "type": "sound",
+            "name": "erba_lady_b_5_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_b_6_507dacd0.mp3",
+            "type": "sound",
+            "name": "erba_lady_b_6_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_b_7_b60268c2.mp3",
+            "type": "sound",
+            "name": "erba_lady_b_7_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_b_8_ef9c8049.mp3",
+            "type": "sound",
+            "name": "erba_lady_b_8_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_b_9_5f2de904.mp3",
+            "type": "sound",
+            "name": "erba_lady_b_9_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_0_89c5aabc.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_0_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_1_685d1e18.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_1_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_1cd_3079ab1d.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_1cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_2_ef6944a2.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_2_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_28_ccf0bc51.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_28_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_2cd_1be2d44f.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_2cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_3_f8f13246.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_3_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_3cd_ed70fe9c.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_3cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_4_805a20f5.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_4_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_4cd_d4899550.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_4cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_5_a1387ce8.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_5_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_5cd_6f2a05bc.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_5cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_6_889cfae6.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_6_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_6cd_6582a3dc.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_6cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_7_6d7baac7.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_7_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_7cd_6c89aa24.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_7cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_8_b3dfa92b.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_8_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_8cd_d26864f3.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_8cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_9_61728500.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_9_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_p_9cd_a7febf6e.mp3",
+            "type": "sound",
+            "name": "erba_lady_p_9cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_lady_zhizun_18ad2ab3.mp3",
+            "type": "sound",
+            "name": "erba_lady_zhizun_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_b_1_17fab82c.mp3",
+            "type": "sound",
+            "name": "erba_man_b_1_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_b_2_263d6a5a.mp3",
+            "type": "sound",
+            "name": "erba_man_b_2_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_b_3_1e3217b4.mp3",
+            "type": "sound",
+            "name": "erba_man_b_3_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_b_4_946adb8a.mp3",
+            "type": "sound",
+            "name": "erba_man_b_4_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_b_5_f5dfa2a4.mp3",
+            "type": "sound",
+            "name": "erba_man_b_5_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_b_6_b0fe9fef.mp3",
+            "type": "sound",
+            "name": "erba_man_b_6_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_b_7_c59fd395.mp3",
+            "type": "sound",
+            "name": "erba_man_b_7_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_b_8_9579ba34.mp3",
+            "type": "sound",
+            "name": "erba_man_b_8_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_b_9_57a4f28b.mp3",
+            "type": "sound",
+            "name": "erba_man_b_9_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_0_bae1ca43.mp3",
+            "type": "sound",
+            "name": "erba_man_p_0_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_1_57cf5bbd.mp3",
+            "type": "sound",
+            "name": "erba_man_p_1_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_1cd_518009d9.mp3",
+            "type": "sound",
+            "name": "erba_man_p_1cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_2_21a741bc.mp3",
+            "type": "sound",
+            "name": "erba_man_p_2_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_28_941ba848.mp3",
+            "type": "sound",
+            "name": "erba_man_p_28_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_2cd_71fa56be.mp3",
+            "type": "sound",
+            "name": "erba_man_p_2cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_3_a3846c44.mp3",
+            "type": "sound",
+            "name": "erba_man_p_3_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_3cd_1d8205fc.mp3",
+            "type": "sound",
+            "name": "erba_man_p_3cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_4_c0b2afe0.mp3",
+            "type": "sound",
+            "name": "erba_man_p_4_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_4cd_9eb4405c.mp3",
+            "type": "sound",
+            "name": "erba_man_p_4cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_5_7a4dd06b.mp3",
+            "type": "sound",
+            "name": "erba_man_p_5_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_5cd_b5df5a2b.mp3",
+            "type": "sound",
+            "name": "erba_man_p_5cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_6_1ac1b016.mp3",
+            "type": "sound",
+            "name": "erba_man_p_6_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_6cd_f51e2db4.mp3",
+            "type": "sound",
+            "name": "erba_man_p_6cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_7_e7c07fd1.mp3",
+            "type": "sound",
+            "name": "erba_man_p_7_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_7cd_d9fc8899.mp3",
+            "type": "sound",
+            "name": "erba_man_p_7cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_8_d60b5fcc.mp3",
+            "type": "sound",
+            "name": "erba_man_p_8_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_8cd_1451ce26.mp3",
+            "type": "sound",
+            "name": "erba_man_p_8cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_9_c27d8f81.mp3",
+            "type": "sound",
+            "name": "erba_man_p_9_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_p_9cd_149a2cc9.mp3",
+            "type": "sound",
+            "name": "erba_man_p_9cd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_man_zhizun_3eb36241.mp3",
+            "type": "sound",
+            "name": "erba_man_zhizun_mp3"
+        },
+        {
+            "url": "sound/erba/erba_sound_bet_2a466057.mp3",
+            "type": "sound",
+            "name": "erba_sound_bet_mp3"
+        },
+        {
+            "url": "sound/erba/erba_sound_betB_c7728d17.mp3",
+            "type": "sound",
+            "name": "erba_sound_betB_mp3"
+        },
+        {
+            "url": "sound/erba/erba_sound_bgm_81d18673.mp3",
+            "type": "sound",
+            "name": "erba_sound_bgm_mp3"
+        },
+        {
+            "url": "sound/erba/erba_sound_fanpa_45f1639a.mp3",
+            "type": "sound",
+            "name": "erba_sound_fanpa_mp3"
+        },
+        {
+            "url": "sound/erba/erba_sound_game_bgm_e6370b00.mp3",
+            "type": "sound",
+            "name": "erba_sound_game_bgm_mp3"
+        },
+        {
+            "url": "sound/erba/erba_sound_qz_5732123d.mp3",
+            "type": "sound",
+            "name": "erba_sound_qz_mp3"
+        },
+        {
+            "url": "sound/erba/erba_sound_roll_116d5e4d.mp3",
+            "type": "sound",
+            "name": "erba_sound_roll_mp3"
+        },
+        {
+            "url": "sound/erba/erba_sound_room_bgm_dc334d16.mp3",
+            "type": "sound",
+            "name": "erba_sound_room_bgm_mp3"
+        },
+        {
+            "url": "sound/erba/erba_sound_suiji_aa018c5d.mp3",
+            "type": "sound",
+            "name": "erba_sound_suiji_mp3"
+        },
+        {
+            "url": "sound/erba/erba_sound_suijiEnd_45dbbffc.mp3",
+            "type": "sound",
+            "name": "erba_sound_suijiEnd_mp3"
+        },
+        {
+            "url": "sound/erba/erba_tongchi_7cd734c3.mp3",
+            "type": "sound",
+            "name": "erba_tongchi_mp3"
+        },
+        {
+            "url": "sound/erba/erba_tongpei_3da7b110.mp3",
+            "type": "sound",
+            "name": "erba_tongpei_mp3"
+        },
+        {
+            "url": "sound/erba/erba_win_2be4c142.mp3",
+            "type": "sound",
+            "name": "erba_win_mp3"
+        },
+        {
+            "url": "sound/fantan/fangshitou_82748245.mp3",
+            "type": "sound",
+            "name": "fangshitou_mp3"
+        },
+        {
+            "url": "sound/fantan/ft_jieguo_da8d6eb3.mp3",
+            "type": "sound",
+            "name": "ft_jieguo_mp3"
+        },
+        {
+            "url": "sound/fantan/gaizhu_ef83be5d.mp3",
+            "type": "sound",
+            "name": "gaizhu_mp3"
+        },
+        {
+            "url": "sound/fantan/yaowan_d3c18aac.mp3",
+            "type": "sound",
+            "name": "yaowan_mp3"
+        },
+        {
+            "url": "sound/fish/f_jieguo_f270c4eb.mp3",
+            "type": "sound",
+            "name": "f_jieguo_mp3"
+        },
+        {
+            "url": "sound/Hi-Lo/hi_jieguo_b20a16a4.mp3",
+            "type": "sound",
+            "name": "hi_jieguo_mp3"
+        },
+        {
+            "url": "sound/killer/killer_fapai_7ef2e0a2.mp3",
+            "type": "sound",
+            "name": "killer_fapai_mp3"
+        },
+        {
+            "url": "sound/killer/kill_bomb_d99a5595.mp3",
+            "type": "sound",
+            "name": "kill_bomb_mp3"
+        },
+        {
+            "url": "sound/killer/kliller_DealPass_2b67ed0a.mp3",
+            "type": "sound",
+            "name": "kliller_DealPass_mp3"
+        },
+        {
+            "url": "sound/killer/kliller_fp_9b617959.mp3",
+            "type": "sound",
+            "name": "kliller_fp_mp3"
+        },
+        {
+            "url": "sound/killer/kliller_MyTurn_22245275.mp3",
+            "type": "sound",
+            "name": "kliller_MyTurn_mp3"
+        },
+        {
+            "url": "sound/ksz/ksznn_bg_6b61ab9e.mp3",
+            "type": "sound",
+            "name": "ksznn_bg_mp3"
+        },
+        {
+            "url": "sound/ksz/ksz_fapai_be8e3f56.mp3",
+            "type": "sound",
+            "name": "ksz_fapai_mp3"
+        },
+        {
+            "url": "sound/ksz/ksz_femalehulu_ac8e8705.mp3",
+            "type": "sound",
+            "name": "ksz_femalehulu_mp3"
+        },
+        {
+            "url": "sound/ksz/ksz_femalesame_309271ef.mp3",
+            "type": "sound",
+            "name": "ksz_femalesame_mp3"
+        },
+        {
+            "url": "sound/ksz/ksz_femalestraight_cdfe4531.mp3",
+            "type": "sound",
+            "name": "ksz_femalestraight_mp3"
+        },
+        {
+            "url": "sound/ksz/ksz_malehulu_c5126c89.mp3",
+            "type": "sound",
+            "name": "ksz_malehulu_mp3"
+        },
+        {
+            "url": "sound/ksz/ksz_malesame_a6e77324.mp3",
+            "type": "sound",
+            "name": "ksz_malesame_mp3"
+        },
+        {
+            "url": "sound/ksz/ksz_malestraight_f3141fec.mp3",
+            "type": "sound",
+            "name": "ksz_malestraight_mp3"
+        },
+        {
+            "url": "sound/ksz/ksz_straight_gold_c6a58a5d.mp3",
+            "type": "sound",
+            "name": "ksz_straight_gold_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_BetGold_fe4d6b90.mp3",
+            "type": "sound",
+            "name": "longhu_BetGold_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_bet_my_f04f5df4.mp3",
+            "type": "sound",
+            "name": "longhu_bet_my_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_bet_other_cd2ea6a6.mp3",
+            "type": "sound",
+            "name": "longhu_bet_other_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_cards_dealing_6151c216.mp3",
+            "type": "sound",
+            "name": "longhu_cards_dealing_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_cards_open_44c37619.mp3",
+            "type": "sound",
+            "name": "longhu_cards_open_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_chipfly_long_b80fb510.mp3",
+            "type": "sound",
+            "name": "longhu_chipfly_long_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_chipfly_short_94dbbcfe.mp3",
+            "type": "sound",
+            "name": "longhu_chipfly_short_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_dealing_card_83d415be.mp3",
+            "type": "sound",
+            "name": "longhu_dealing_card_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_end_bet_d9e34a36.mp3",
+            "type": "sound",
+            "name": "longhu_end_bet_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_game_bgm_e61ab489.mp3",
+            "type": "sound",
+            "name": "longhu_game_bgm_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_n01_2ff3e837.mp3",
+            "type": "sound",
+            "name": "longhu_n01_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_n010_110385d9.mp3",
+            "type": "sound",
+            "name": "longhu_n010_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_n011_dc93ac38.mp3",
+            "type": "sound",
+            "name": "longhu_n011_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_n012_39df1409.mp3",
+            "type": "sound",
+            "name": "longhu_n012_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_n013_f83cd322.mp3",
+            "type": "sound",
+            "name": "longhu_n013_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_n02_c9645502.mp3",
+            "type": "sound",
+            "name": "longhu_n02_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_n03_901a9bd4.mp3",
+            "type": "sound",
+            "name": "longhu_n03_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_n04_7c82be8b.mp3",
+            "type": "sound",
+            "name": "longhu_n04_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_n05_9b4d75ef.mp3",
+            "type": "sound",
+            "name": "longhu_n05_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_n06_500e90cc.mp3",
+            "type": "sound",
+            "name": "longhu_n06_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_n07_cb66f06a.mp3",
+            "type": "sound",
+            "name": "longhu_n07_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_n08_46441d6a.mp3",
+            "type": "sound",
+            "name": "longhu_n08_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_n09_7f3b1f4c.mp3",
+            "type": "sound",
+            "name": "longhu_n09_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_other_bet1_113f5c72.mp3",
+            "type": "sound",
+            "name": "longhu_other_bet1_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_other_bet2_67590b3a.mp3",
+            "type": "sound",
+            "name": "longhu_other_bet2_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_other_bet3_713bfe3d.mp3",
+            "type": "sound",
+            "name": "longhu_other_bet3_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_out_notice_408e4d26.mp3",
+            "type": "sound",
+            "name": "longhu_out_notice_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_room_bgm_45f89732.mp3",
+            "type": "sound",
+            "name": "longhu_room_bgm_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_start_3f1233ba.mp3",
+            "type": "sound",
+            "name": "longhu_start_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_stop_bfe0c143.mp3",
+            "type": "sound",
+            "name": "longhu_stop_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_victory_72f927bd.mp3",
+            "type": "sound",
+            "name": "longhu_victory_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_win_bet_1eb3675d.mp3",
+            "type": "sound",
+            "name": "longhu_win_bet_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_win_he_ecb8b3fd.mp3",
+            "type": "sound",
+            "name": "longhu_win_he_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_win_hu_9c0d340a.mp3",
+            "type": "sound",
+            "name": "longhu_win_hu_mp3"
+        },
+        {
+            "url": "sound/longhu/longhu_win_long_91e2b66f.mp3",
+            "type": "sound",
+            "name": "longhu_win_long_mp3"
+        },
+        {
+            "url": "sound/public/female4cow_6153e184.mp3",
+            "type": "sound",
+            "name": "female4cow_mp3"
+        },
+        {
+            "url": "sound/public/female5cow_9f239810.mp3",
+            "type": "sound",
+            "name": "female5cow_mp3"
+        },
+        {
+            "url": "sound/public/female5scow_ccb030.mp3",
+            "type": "sound",
+            "name": "female5scow_mp3"
+        },
+        {
+            "url": "sound/public/femalebomb_5bf25c9e.mp3",
+            "type": "sound",
+            "name": "femalebomb_mp3"
+        },
+        {
+            "url": "sound/public/femalecow_0_e07a24c3.mp3",
+            "type": "sound",
+            "name": "femalecow_0_mp3"
+        },
+        {
+            "url": "sound/public/femalecow_1_1aa09085.mp3",
+            "type": "sound",
+            "name": "femalecow_1_mp3"
+        },
+        {
+            "url": "sound/public/femalecow_10_42c21b.mp3",
+            "type": "sound",
+            "name": "femalecow_10_mp3"
+        },
+        {
+            "url": "sound/public/femalecow_2_55c44b6a.mp3",
+            "type": "sound",
+            "name": "femalecow_2_mp3"
+        },
+        {
+            "url": "sound/public/femalecow_3_2e852244.mp3",
+            "type": "sound",
+            "name": "femalecow_3_mp3"
+        },
+        {
+            "url": "sound/public/femalecow_4_67442f3.mp3",
+            "type": "sound",
+            "name": "femalecow_4_mp3"
+        },
+        {
+            "url": "sound/public/femalecow_5_eefc699.mp3",
+            "type": "sound",
+            "name": "femalecow_5_mp3"
+        },
+        {
+            "url": "sound/public/femalecow_6_86aa8dfa.mp3",
+            "type": "sound",
+            "name": "femalecow_6_mp3"
+        },
+        {
+            "url": "sound/public/femalecow_7_345e0346.mp3",
+            "type": "sound",
+            "name": "femalecow_7_mp3"
+        },
+        {
+            "url": "sound/public/femalecow_8_a8500a3.mp3",
+            "type": "sound",
+            "name": "femalecow_8_mp3"
+        },
+        {
+            "url": "sound/public/femalecow_9_34926330.mp3",
+            "type": "sound",
+            "name": "femalecow_9_mp3"
+        },
+        {
+            "url": "sound/public/game_sound_btn_click_4fcb8657.mp3",
+            "type": "sound",
+            "name": "game_sound_btn_click_mp3"
+        },
+        {
+            "url": "sound/public/home_bg_0_1b47ed33.mp3",
+            "type": "sound",
+            "name": "home_bg_0_mp3"
+        },
+        {
+            "url": "sound/public/male4cow_eb11cc32.mp3",
+            "type": "sound",
+            "name": "male4cow_mp3"
+        },
+        {
+            "url": "sound/public/male5cow_b8b09bca.mp3",
+            "type": "sound",
+            "name": "male5cow_mp3"
+        },
+        {
+            "url": "sound/public/male5scow_ef45fd20.mp3",
+            "type": "sound",
+            "name": "male5scow_mp3"
+        },
+        {
+            "url": "sound/public/malebomb_5f05a979.mp3",
+            "type": "sound",
+            "name": "malebomb_mp3"
+        },
+        {
+            "url": "sound/public/malecow_0_30417e22.mp3",
+            "type": "sound",
+            "name": "malecow_0_mp3"
+        },
+        {
+            "url": "sound/public/malecow_1_d52b59f.mp3",
+            "type": "sound",
+            "name": "malecow_1_mp3"
+        },
+        {
+            "url": "sound/public/malecow_10_ab2c75ca.mp3",
+            "type": "sound",
+            "name": "malecow_10_mp3"
+        },
+        {
+            "url": "sound/public/malecow_2_b3fcf003.mp3",
+            "type": "sound",
+            "name": "malecow_2_mp3"
+        },
+        {
+            "url": "sound/public/malecow_3_f80e94b7.mp3",
+            "type": "sound",
+            "name": "malecow_3_mp3"
+        },
+        {
+            "url": "sound/public/malecow_4_e7960e33.mp3",
+            "type": "sound",
+            "name": "malecow_4_mp3"
+        },
+        {
+            "url": "sound/public/malecow_5_cd86e189.mp3",
+            "type": "sound",
+            "name": "malecow_5_mp3"
+        },
+        {
+            "url": "sound/public/malecow_6_ccd23f71.mp3",
+            "type": "sound",
+            "name": "malecow_6_mp3"
+        },
+        {
+            "url": "sound/public/malecow_7_4d14fe24.mp3",
+            "type": "sound",
+            "name": "malecow_7_mp3"
+        },
+        {
+            "url": "sound/public/malecow_8_8297ddc8.mp3",
+            "type": "sound",
+            "name": "malecow_8_mp3"
+        },
+        {
+            "url": "sound/public/malecow_9_e206bf24.mp3",
+            "type": "sound",
+            "name": "malecow_9_mp3"
+        },
+        {
+            "url": "sound/public/nn_banker_4e5d8f90.mp3",
+            "type": "sound",
+            "name": "nn_banker_mp3"
+        },
+        {
+            "url": "sound/public/nn_bankerrun_610ff8bf.mp3",
+            "type": "sound",
+            "name": "nn_bankerrun_mp3"
+        },
+        {
+            "url": "sound/public/nn_collectgold_4ac6260c.mp3",
+            "type": "sound",
+            "name": "nn_collectgold_mp3"
+        },
+        {
+            "url": "sound/public/nn_gamestart_8a6d65ed.mp3",
+            "type": "sound",
+            "name": "nn_gamestart_mp3"
+        },
+        {
+            "url": "sound/public/nn_scrollnumber_2dd6b721.mp3",
+            "type": "sound",
+            "name": "nn_scrollnumber_mp3"
+        },
+        {
+            "url": "sound/public/nn_sendcard_59bbef1.mp3",
+            "type": "sound",
+            "name": "nn_sendcard_mp3"
+        },
+        {
+            "url": "sound/public/nn_win_b8afffee.mp3",
+            "type": "sound",
+            "name": "nn_win_mp3"
+        },
+        {
+            "url": "sound/public2/bet1_2edc2a9.mp3",
+            "type": "sound",
+            "name": "bet1_mp3"
+        },
+        {
+            "url": "sound/public2/btn_menu_c0b1902.mp3",
+            "type": "sound",
+            "name": "btn_menu_mp3"
+        },
+        {
+            "url": "sound/public2/Chips_8481900d.mp3",
+            "type": "sound",
+            "name": "Chips_mp3"
+        },
+        {
+            "url": "sound/public2/dakai_ef83be5d.mp3",
+            "type": "sound",
+            "name": "dakai_mp3"
+        },
+        {
+            "url": "sound/public2/daoju_33842b98.mp3",
+            "type": "sound",
+            "name": "daoju_mp3"
+        },
+        {
+            "url": "sound/public2/daoju2_b328ab12.mp3",
+            "type": "sound",
+            "name": "daoju2_mp3"
+        },
+        {
+            "url": "sound/public2/DealCard_0_ed179f54.mp3",
+            "type": "sound",
+            "name": "DealCard_0_mp3"
+        },
+        {
+            "url": "sound/public2/DealCard_1_3f6e1221.mp3",
+            "type": "sound",
+            "name": "DealCard_1_mp3"
+        },
+        {
+            "url": "sound/public2/dissapoint_cf5e7298.mp3",
+            "type": "sound",
+            "name": "dissapoint_mp3"
+        },
+        {
+            "url": "sound/public2/fangchouma_e6e63ab5.mp3",
+            "type": "sound",
+            "name": "fangchouma_mp3"
+        },
+        {
+            "url": "sound/public2/fanpai_99513510.mp3",
+            "type": "sound",
+            "name": "fanpai_mp3"
+        },
+        {
+            "url": "sound/public2/fp_9b617959.mp3",
+            "type": "sound",
+            "name": "fp_mp3"
+        },
+        {
+            "url": "sound/public2/payout_chips_be307b16.mp3",
+            "type": "sound",
+            "name": "payout_chips_mp3"
+        },
+        {
+            "url": "sound/public2/start_412fb379.mp3",
+            "type": "sound",
+            "name": "start_mp3"
+        },
+        {
+            "url": "sound/public2/TexasGameFail_Voice_1b4a71ae.mp3",
+            "type": "sound",
+            "name": "TexasGameFail_Voice_mp3"
+        },
+        {
+            "url": "sound/public2/time_ce783f64.mp3",
+            "type": "sound",
+            "name": "time_mp3"
+        },
+        {
+            "url": "sound/public2/WarningtimeOver_e2e6d80f.mp3",
+            "type": "sound",
+            "name": "WarningtimeOver_mp3"
+        },
+        {
+            "url": "sound/public2/win_d8ab1790.mp3",
+            "type": "sound",
+            "name": "win_mp3"
+        },
+        {
+            "url": "sound/public2/xb_4b0bac95.mp3",
+            "type": "sound",
+            "name": "xb_mp3"
+        },
+        {
+            "url": "sound/public2/xiazhushibai_d7f9f57e.mp3",
+            "type": "sound",
+            "name": "xiazhushibai_mp3"
+        },
+        {
+            "url": "sound/public2/yaotouzi_3baf5eb7.mp3",
+            "type": "sound",
+            "name": "yaotouzi_mp3"
+        },
+        {
+            "url": "sound/qznn/qznn_carddone_60e7bf4f.mp3",
+            "type": "sound",
+            "name": "qznn_carddone_mp3"
+        },
+        {
+            "url": "sound/qznn/qznn_carderror_18050660.mp3",
+            "type": "sound",
+            "name": "qznn_carderror_mp3"
+        },
+        {
+            "url": "sound/qznn/qznn_game_bg_8b9e46a6.mp3",
+            "type": "sound",
+            "name": "qznn_game_bg_mp3"
+        },
+        {
+            "url": "sound/qznn/qznn_great_4ca86af0.mp3",
+            "type": "sound",
+            "name": "qznn_great_mp3"
+        },
+        {
+            "url": "sound/qznn/qznn_room_bg_31401787.mp3",
+            "type": "sound",
+            "name": "qznn_room_bg_mp3"
+        },
+        {
+            "url": "sound/qznn/qznn_tongchi_7975a1e3.mp3",
+            "type": "sound",
+            "name": "qznn_tongchi_mp3"
+        },
+        {
+            "url": "sound/qzpj/qzpj_begin_bet_c7728d17.mp3",
+            "type": "sound",
+            "name": "qzpj_begin_bet_mp3"
+        },
+        {
+            "url": "sound/qzpj/qzpj_fanpai_dac33f92.mp3",
+            "type": "sound",
+            "name": "qzpj_fanpai_mp3"
+        },
+        {
+            "url": "sound/qzpj/qzpj_fapai_94f502f.mp3",
+            "type": "sound",
+            "name": "qzpj_fapai_mp3"
+        },
+        {
+            "url": "sound/qzpj/qzpj_game_bg_641dab80.mp3",
+            "type": "sound",
+            "name": "qzpj_game_bg_mp3"
+        },
+        {
+            "url": "sound/qzpj/qzpj_qiangzhuang_5732123d.mp3",
+            "type": "sound",
+            "name": "qzpj_qiangzhuang_mp3"
+        },
+        {
+            "url": "sound/qzpj/qzpj_room_bg_ee306c7d.mp3",
+            "type": "sound",
+            "name": "qzpj_room_bg_mp3"
+        },
+        {
+            "url": "sound/qzpj/qzpj_sound_bet_2a466057.mp3",
+            "type": "sound",
+            "name": "qzpj_sound_bet_mp3"
+        },
+        {
+            "url": "sound/qzpj/qzpj_touzi_116d5e4d.mp3",
+            "type": "sound",
+            "name": "qzpj_touzi_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_banker_boy_ae0fd386.mp3",
+            "type": "sound",
+            "name": "qzwxs_banker_boy_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_banker_girl_4452a29.mp3",
+            "type": "sound",
+            "name": "qzwxs_banker_girl_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_banker_selected_63ec778d.mp3",
+            "type": "sound",
+            "name": "qzwxs_banker_selected_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_dealcard_5b0c3877.mp3",
+            "type": "sound",
+            "name": "qzwxs_dealcard_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_game_bgm_339889d4.mp3",
+            "type": "sound",
+            "name": "qzwxs_game_bgm_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_jh_female_1_4820f22a.mp3",
+            "type": "sound",
+            "name": "qzwxs_jh_female_1_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_jh_female_2_807dd2e6.mp3",
+            "type": "sound",
+            "name": "qzwxs_jh_female_2_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_jh_female_3_3a1efbae.mp3",
+            "type": "sound",
+            "name": "qzwxs_jh_female_3_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_jh_female_4_629e48f8.mp3",
+            "type": "sound",
+            "name": "qzwxs_jh_female_4_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_jh_female_5_4a4e4dbb.mp3",
+            "type": "sound",
+            "name": "qzwxs_jh_female_5_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_jh_female_6_cf5c9891.mp3",
+            "type": "sound",
+            "name": "qzwxs_jh_female_6_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_jh_male_1_e17e10f2.mp3",
+            "type": "sound",
+            "name": "qzwxs_jh_male_1_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_jh_male_2_8244219f.mp3",
+            "type": "sound",
+            "name": "qzwxs_jh_male_2_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_jh_male_3_2438cb87.mp3",
+            "type": "sound",
+            "name": "qzwxs_jh_male_3_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_jh_male_4_62643fbf.mp3",
+            "type": "sound",
+            "name": "qzwxs_jh_male_4_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_jh_male_5_51e34ead.mp3",
+            "type": "sound",
+            "name": "qzwxs_jh_male_5_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_jh_male_6_35959a01.mp3",
+            "type": "sound",
+            "name": "qzwxs_jh_male_6_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_kaishi_ab166852.mp3",
+            "type": "sound",
+            "name": "qzwxs_kaishi_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_kaishi_boy_911c1b8e.mp3",
+            "type": "sound",
+            "name": "qzwxs_kaishi_boy_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_kaishi_girl_eecae8fd.mp3",
+            "type": "sound",
+            "name": "qzwxs_kaishi_girl_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_LampRun_610ff8bf.mp3",
+            "type": "sound",
+            "name": "qzwxs_LampRun_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_noBanker_boy_87c1a3c6.mp3",
+            "type": "sound",
+            "name": "qzwxs_noBanker_boy_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_noBanker_girl_7eef6d96.mp3",
+            "type": "sound",
+            "name": "qzwxs_noBanker_girl_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_room_bgm_2faba0a1.mp3",
+            "type": "sound",
+            "name": "qzwxs_room_bgm_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_sendcard_59bbef1.mp3",
+            "type": "sound",
+            "name": "qzwxs_sendcard_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_send_chip_f808f71f.mp3",
+            "type": "sound",
+            "name": "qzwxs_send_chip_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_tongchi_f34c67ab.mp3",
+            "type": "sound",
+            "name": "qzwxs_tongchi_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_tongchi_boy_a4c9042.mp3",
+            "type": "sound",
+            "name": "qzwxs_tongchi_boy_mp3"
+        },
+        {
+            "url": "sound/qzwxs/qzwxs_tongchi_girl_d453b178.mp3",
+            "type": "sound",
+            "name": "qzwxs_tongchi_girl_mp3"
+        },
+        {
+            "url": "sound/sedice/se_jieguo_df1d108f.mp3",
+            "type": "sound",
+            "name": "se_jieguo_mp3"
+        },
+        {
+            "url": "sound/sg/sg_banker_boy_ae0fd386.mp3",
+            "type": "sound",
+            "name": "sg_banker_boy_mp3"
+        },
+        {
+            "url": "sound/sg/sg_banker_girl_4452a29.mp3",
+            "type": "sound",
+            "name": "sg_banker_girl_mp3"
+        },
+        {
+            "url": "sound/sg/sg_banker_selected_63ec778d.mp3",
+            "type": "sound",
+            "name": "sg_banker_selected_mp3"
+        },
+        {
+            "url": "sound/sg/sg_dsg_boy_5911bd75.mp3",
+            "type": "sound",
+            "name": "sg_dsg_boy_mp3"
+        },
+        {
+            "url": "sound/sg/sg_dsg_girl_d69cac27.mp3",
+            "type": "sound",
+            "name": "sg_dsg_girl_mp3"
+        },
+        {
+            "url": "sound/sg/sg_female_0_b98ac328.mp3",
+            "type": "sound",
+            "name": "sg_female_0_mp3"
+        },
+        {
+            "url": "sound/sg/sg_female_1_f289a658.mp3",
+            "type": "sound",
+            "name": "sg_female_1_mp3"
+        },
+        {
+            "url": "sound/sg/sg_female_2_19143e29.mp3",
+            "type": "sound",
+            "name": "sg_female_2_mp3"
+        },
+        {
+            "url": "sound/sg/sg_female_3_55859ff0.mp3",
+            "type": "sound",
+            "name": "sg_female_3_mp3"
+        },
+        {
+            "url": "sound/sg/sg_female_4_fd55d531.mp3",
+            "type": "sound",
+            "name": "sg_female_4_mp3"
+        },
+        {
+            "url": "sound/sg/sg_female_5_1508c101.mp3",
+            "type": "sound",
+            "name": "sg_female_5_mp3"
+        },
+        {
+            "url": "sound/sg/sg_female_6_71a246f5.mp3",
+            "type": "sound",
+            "name": "sg_female_6_mp3"
+        },
+        {
+            "url": "sound/sg/sg_female_7_c76e66fe.mp3",
+            "type": "sound",
+            "name": "sg_female_7_mp3"
+        },
+        {
+            "url": "sound/sg/sg_female_8_4d22b0e4.mp3",
+            "type": "sound",
+            "name": "sg_female_8_mp3"
+        },
+        {
+            "url": "sound/sg/sg_female_9_6ef0090a.mp3",
+            "type": "sound",
+            "name": "sg_female_9_mp3"
+        },
+        {
+            "url": "sound/sg/sg_game_bgm_657bcbfd.mp3",
+            "type": "sound",
+            "name": "sg_game_bgm_mp3"
+        },
+        {
+            "url": "sound/sg/sg_kaishi_ab166852.mp3",
+            "type": "sound",
+            "name": "sg_kaishi_mp3"
+        },
+        {
+            "url": "sound/sg/sg_kaishi_boy_911c1b8e.mp3",
+            "type": "sound",
+            "name": "sg_kaishi_boy_mp3"
+        },
+        {
+            "url": "sound/sg/sg_kaishi_girl_eecae8fd.mp3",
+            "type": "sound",
+            "name": "sg_kaishi_girl_mp3"
+        },
+        {
+            "url": "sound/sg/sg_LampRun_610ff8bf.mp3",
+            "type": "sound",
+            "name": "sg_LampRun_mp3"
+        },
+        {
+            "url": "sound/sg/sg_male_0_17bde99e.mp3",
+            "type": "sound",
+            "name": "sg_male_0_mp3"
+        },
+        {
+            "url": "sound/sg/sg_male_1_47eae55f.mp3",
+            "type": "sound",
+            "name": "sg_male_1_mp3"
+        },
+        {
+            "url": "sound/sg/sg_male_2_501b89d5.mp3",
+            "type": "sound",
+            "name": "sg_male_2_mp3"
+        },
+        {
+            "url": "sound/sg/sg_male_3_7a31fd2a.mp3",
+            "type": "sound",
+            "name": "sg_male_3_mp3"
+        },
+        {
+            "url": "sound/sg/sg_male_4_3ec6913.mp3",
+            "type": "sound",
+            "name": "sg_male_4_mp3"
+        },
+        {
+            "url": "sound/sg/sg_male_5_b4478235.mp3",
+            "type": "sound",
+            "name": "sg_male_5_mp3"
+        },
+        {
+            "url": "sound/sg/sg_male_6_ce5cabff.mp3",
+            "type": "sound",
+            "name": "sg_male_6_mp3"
+        },
+        {
+            "url": "sound/sg/sg_male_7_949b979a.mp3",
+            "type": "sound",
+            "name": "sg_male_7_mp3"
+        },
+        {
+            "url": "sound/sg/sg_male_8_27ae5a5c.mp3",
+            "type": "sound",
+            "name": "sg_male_8_mp3"
+        },
+        {
+            "url": "sound/sg/sg_male_9_27f7327b.mp3",
+            "type": "sound",
+            "name": "sg_male_9_mp3"
+        },
+        {
+            "url": "sound/sg/sg_noBanker_boy_87c1a3c6.mp3",
+            "type": "sound",
+            "name": "sg_noBanker_boy_mp3"
+        },
+        {
+            "url": "sound/sg/sg_noBanker_girl_7eef6d96.mp3",
+            "type": "sound",
+            "name": "sg_noBanker_girl_mp3"
+        },
+        {
+            "url": "sound/sg/sg_room_bgm_12838823.mp3",
+            "type": "sound",
+            "name": "sg_room_bgm_mp3"
+        },
+        {
+            "url": "sound/sg/sg_send_card_74bca942.mp3",
+            "type": "sound",
+            "name": "sg_send_card_mp3"
+        },
+        {
+            "url": "sound/sg/sg_send_chip_f808f71f.mp3",
+            "type": "sound",
+            "name": "sg_send_chip_mp3"
+        },
+        {
+            "url": "sound/sg/sg_sg_boy_20b4aba2.mp3",
+            "type": "sound",
+            "name": "sg_sg_boy_mp3"
+        },
+        {
+            "url": "sound/sg/sg_sg_girl_96ad07d3.mp3",
+            "type": "sound",
+            "name": "sg_sg_girl_mp3"
+        },
+        {
+            "url": "sound/sg/sg_teshupai_9c22cdc2.mp3",
+            "type": "sound",
+            "name": "sg_teshupai_mp3"
+        },
+        {
+            "url": "sound/sg/sg_tongchi_f34c67ab.mp3",
+            "type": "sound",
+            "name": "sg_tongchi_mp3"
+        },
+        {
+            "url": "sound/sg/sg_tongchi_boy_a4c9042.mp3",
+            "type": "sound",
+            "name": "sg_tongchi_boy_mp3"
+        },
+        {
+            "url": "sound/sg/sg_tongchi_girl_d453b178.mp3",
+            "type": "sound",
+            "name": "sg_tongchi_girl_mp3"
+        },
+        {
+            "url": "sound/sg/sg_win_e615b518.mp3",
+            "type": "sound",
+            "name": "sg_win_mp3"
+        },
+        {
+            "url": "sound/tbnn/tbnn_game_bg_15bea06e.mp3",
+            "type": "sound",
+            "name": "tbnn_game_bg_mp3"
+        },
+        {
+            "url": "sound/tbnn/tbnn_room_bg_adbbffde.mp3",
+            "type": "sound",
+            "name": "tbnn_room_bg_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_boy_add_c13b0d01.mp3",
+            "type": "sound",
+            "name": "zjh_boy_add_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_boy_cmp_6831cd04.mp3",
+            "type": "sound",
+            "name": "zjh_boy_cmp_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_boy_cmp2_9a8587b3.mp3",
+            "type": "sound",
+            "name": "zjh_boy_cmp2_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_boy_follow1_c13d4377.mp3",
+            "type": "sound",
+            "name": "zjh_boy_follow1_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_boy_follow2_aa7d083e.mp3",
+            "type": "sound",
+            "name": "zjh_boy_follow2_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_boy_giveup_ee4e1cbb.mp3",
+            "type": "sound",
+            "name": "zjh_boy_giveup_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_boy_giveup2_6b11fa1.mp3",
+            "type": "sound",
+            "name": "zjh_boy_giveup2_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_boy_watch_9de4d891.mp3",
+            "type": "sound",
+            "name": "zjh_boy_watch_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_effect_fapai_be8e3f56.mp3",
+            "type": "sound",
+            "name": "zjh_effect_fapai_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_gf_baozi_c6f48e43.mp3",
+            "type": "sound",
+            "name": "zjh_gf_baozi_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_gf_Bet_a276bc89.mp3",
+            "type": "sound",
+            "name": "zjh_gf_Bet_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_gf_fapai3_1068c427.mp3",
+            "type": "sound",
+            "name": "zjh_gf_fapai3_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_gf_game_bgm_10157c1e.mp3",
+            "type": "sound",
+            "name": "zjh_gf_game_bgm_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_gf_goldchip_a961af3f.mp3",
+            "type": "sound",
+            "name": "zjh_gf_goldchip_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_gf_guzhuyizhi_man_9c647c0f.mp3",
+            "type": "sound",
+            "name": "zjh_gf_guzhuyizhi_man_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_gf_guzhuyizhi_wom_b5688974.mp3",
+            "type": "sound",
+            "name": "zjh_gf_guzhuyizhi_wom_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_gf_jinhua_8ded2664.mp3",
+            "type": "sound",
+            "name": "zjh_gf_jinhua_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_gf_myturn_61dd1f6d.mp3",
+            "type": "sound",
+            "name": "zjh_gf_myturn_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_gf_room_bgm_486b69e4.mp3",
+            "type": "sound",
+            "name": "zjh_gf_room_bgm_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_gf_shou_821899.mp3",
+            "type": "sound",
+            "name": "zjh_gf_shou_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_gf_tonghuashun_20109b5b.mp3",
+            "type": "sound",
+            "name": "zjh_gf_tonghuashun_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_gf_win_e6d4f8a3.mp3",
+            "type": "sound",
+            "name": "zjh_gf_win_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_gf_zhadan_ca9ab995.mp3",
+            "type": "sound",
+            "name": "zjh_gf_zhadan_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_girl_add_499c9759.mp3",
+            "type": "sound",
+            "name": "zjh_girl_add_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_girl_cmp_889d5eee.mp3",
+            "type": "sound",
+            "name": "zjh_girl_cmp_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_girl_cmp2_dd77eae5.mp3",
+            "type": "sound",
+            "name": "zjh_girl_cmp2_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_girl_follow1_19878e.mp3",
+            "type": "sound",
+            "name": "zjh_girl_follow1_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_girl_follow2_f78d177a.mp3",
+            "type": "sound",
+            "name": "zjh_girl_follow2_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_girl_giveup_a5064e00.mp3",
+            "type": "sound",
+            "name": "zjh_girl_giveup_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_girl_giveup2_7b29278a.mp3",
+            "type": "sound",
+            "name": "zjh_girl_giveup2_mp3"
+        },
+        {
+            "url": "sound/zjh/zjh_girl_watch_86eee601.mp3",
+            "type": "sound",
+            "name": "zjh_girl_watch_mp3"
+        },
+        {
+            "url": "assets/Button/button_down.png",
+            "type": "image",
+            "name": "button_down_png"
+        },
+        {
+            "url": "assets/Button/button_up.png",
+            "type": "image",
+            "name": "button_up_png"
+        },
+        {
+            "url": "assets/CheckBox/checkbox_select_disabled.png",
+            "type": "image",
+            "name": "checkbox_select_disabled_png"
+        },
+        {
+            "url": "assets/CheckBox/checkbox_select_down.png",
+            "type": "image",
+            "name": "checkbox_select_down_png"
+        },
+        {
+            "url": "assets/CheckBox/checkbox_select_up.png",
+            "type": "image",
+            "name": "checkbox_select_up_png"
+        },
+        {
+            "url": "assets/CheckBox/checkbox_unselect.png",
+            "type": "image",
+            "name": "checkbox_unselect_png"
+        },
+        {
+            "url": "assets/ItemRenderer/selected.png",
+            "type": "image",
+            "name": "selected_png"
+        },
+        {
+            "url": "assets/Panel/border.png",
+            "type": "image",
+            "name": "border_png"
+        },
+        {
+            "url": "assets/Panel/header.png",
+            "type": "image",
+            "name": "header_png"
+        },
+        {
+            "url": "assets/ProgressBar/thumb_pb.png",
+            "type": "image",
+            "name": "thumb_pb_png"
+        },
+        {
+            "url": "assets/ProgressBar/track_pb.png",
+            "type": "image",
+            "name": "track_pb_png"
+        },
+        {
+            "url": "assets/RadioButton/radiobutton_select_disabled.png",
+            "type": "image",
+            "name": "radiobutton_select_disabled_png"
+        },
+        {
+            "url": "assets/RadioButton/radiobutton_select_down.png",
+            "type": "image",
+            "name": "radiobutton_select_down_png"
+        },
+        {
+            "url": "assets/RadioButton/radiobutton_select_up.png",
+            "type": "image",
+            "name": "radiobutton_select_up_png"
+        },
+        {
+            "url": "assets/RadioButton/radiobutton_unselect.png",
+            "type": "image",
+            "name": "radiobutton_unselect_png"
+        },
+        {
+            "url": "assets/ScrollBar/roundthumb.png",
+            "type": "image",
+            "name": "roundthumb_png"
+        },
+        {
+            "url": "assets/ScrollBar/track_sb.png",
+            "type": "image",
+            "name": "track_sb_png"
+        },
+        {
+            "url": "assets/Slider/thumb.png",
+            "type": "image",
+            "name": "thumb_png"
+        },
+        {
+            "url": "assets/Slider/track.png",
+            "type": "image",
+            "name": "track_png"
+        },
+        {
+            "url": "assets/Slider/tracklight.png",
+            "type": "image",
+            "name": "tracklight_png"
+        },
+        {
+            "url": "assets/ToggleSwitch/handle.png",
+            "type": "image",
+            "name": "handle_png"
+        },
+        {
+            "url": "assets/ToggleSwitch/off.png",
+            "type": "image",
+            "name": "off_png"
+        },
+        {
+            "url": "assets/ToggleSwitch/on.png",
+            "type": "image",
+            "name": "on_png"
+        },
+        {
+            "url": "zip/1/ja_jp_preload_5112e3a5.zip",
+            "type": "zip",
+            "name": "ja_jp_preload_zip"
+        },
+        {
+            "url": "zip/1/ja_jp_effect_public_fireworks_726fef45.zip",
+            "type": "zip",
+            "name": "ja_jp_effect_public_fireworks_zip"
+        },
+        {
+            "url": "zip/1/ja_jp_public_b0fd7e4a.zip",
+            "type": "zip",
+            "name": "ja_jp_public_zip"
+        }
+    ]
+}
